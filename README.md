@@ -1,14 +1,20 @@
 # Kevin Vo's portfolio
-This is a collection of notebooks that I created for data analysis. All of the project titles are links to the notebooks on GitHub. 
+This is a collection of notebooks that I created for data analysis. All of the project titles are links to the notebooks on GitHub and are sorted from newest to oldest.
 
 ## Guided Projects
 These are guided projects that I have completed from Dataquest.io to learn the fundamental workflow of data analysis.
 ### [Winning Jeopardy](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_15%20Winning%20Jeopardy.ipynb)
+In this project, we will look through 20,000 past questions from the game show Jeopardy and use probabilities to see if there are any patterns that could give a contestant an edge on their competitors.
 ### [Finding the Best Markets to Advertise In](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_14%20Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
+In this guided project, we will assume a role in an e-learning company like Dataquest.io and try to find the two best markets to advertise our product in by using different averages and z-scores. Let's assume that most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc.
 ### [Investigating Fandango Movie Ratings](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_13%20Investigating%20Fandango%20Movie%20Ratings.ipynb)
+In this project, I apply basic statisics to look at the aftermath of [Walt Hickey's investigation](https://fivethirtyeight.com/features/fandango-movies-ratings/) into Fandango's movie ratings, where Fandango claims a glitch in their system scored movies ratings higher than what fans actually rated. 
 ### [Designing and Creating a Database](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_12%20Designing%20and%20Creating%20a%20Database.ipynb)
+To fully understand how write queries to get the data you need, you need to have an idea of how databases are designed and created. 
 ### [Answering Business Questions Using SQL](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_11%20Answering%20Business%20Questions%20using%20SQL.ipynb)
-### [Analyzing CIA Factbooks Data Using SQLite and Python](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_10%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python.ipynb)
+Databases are a great way to store great amount of data, given the amount of data you need to know how to join tables together and write more complex queries to get the data you need. 
+### [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_10%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python.ipynb)
+I analyzed CIA Factbook data by writing SQL queries to retrieve data to get summary statistics and perform additonal analysis in Python in this project. 
 ### [Star Wars Survey](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_7%20Star%20Wars%20Survey.ipynb)
 In this guided project, I analyze survey data about Star Wars that FiveThirtyEight conducted. This project focused on cleaning data and having it manner more suitable for analysis and presentation. 
 ### [Analyzing NYC High School Data](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_6%20Analyzing%20NYC%20High%20School%20Data.ipynb)
