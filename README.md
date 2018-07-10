@@ -1,5 +1,5 @@
 # Kevin Vo's portfolio
-This is a collection of notebooks that I created for data analysis. All of the project titles are links to the notebooks on GitHub unless otherwise stated. 
+This is a collection of notebooks that I created for data analysis. All of the project titles are links to the notebooks on GitHub. 
 
 ## Guided Projects
 These are guided projects that I have completed from Dataquest.io to learn the fundamental workflow of data analysis.
