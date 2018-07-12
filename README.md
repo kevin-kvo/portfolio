@@ -2,11 +2,13 @@
 This is a collection of notebooks that I created for data analysis. All of the project titles are links to the notebooks on GitHub and are sorted from newest to oldest.
 
 ## Guided Projects
-These are guided projects that I have completed from Dataquest.io to learn the fundamental workflow of data analysis.
+These are guided projects that I have completed from Dataquest.io to learn the fundamental workflow and techniques of data analysis.
+### [Predicting Car Prices Using K-Nearest Neighbors](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_16%20Predicting%20Car%20Prices.ipynb)
+I attempt to estimate car prices using K-Nearest Neighbors regression (instance-based learning) to fit a model to a training dataset and apply it to a test dataset for the prediction. This project utilized k-NN regression, error metrixcs, test/train validation, and k-fold cross validation.
 ### [Winning Jeopardy](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_15%20Winning%20Jeopardy.ipynb)
-In this project, we will look through 20,000 past questions from the game show Jeopardy and use probabilities to see if there are any patterns that could give a contestant an edge on their competitors.
+In this project, I looked through 20,000 past questions from the game show Jeopardy and use probabilities, chi-squared tests, and significance levels to see if there are any patterns that could give a contestant an edge over their competitors.
 ### [Finding the Best Markets to Advertise In](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_14%20Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
-In this guided project, we will assume a role in an e-learning company like Dataquest.io and try to find the two best markets to advertise our product in by using different averages and z-scores. Let's assume that most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc.
+In this guided project, I assume a role in an e-learning company like Dataquest.io and try to find the two best markets to advertise our product in by using different averages and z-scores. Let's assume that most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc.
 ### [Investigating Fandango Movie Ratings](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_13%20Investigating%20Fandango%20Movie%20Ratings.ipynb)
 In this project, I apply basic statisics to look at the aftermath of [Walt Hickey's investigation](https://fivethirtyeight.com/features/fandango-movies-ratings/) into Fandango's movie ratings, where Fandango claims a glitch in their system scored movies ratings higher than what fans actually rated. 
 ### [Designing and Creating a Database](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_12%20Designing%20and%20Creating%20a%20Database.ipynb)
