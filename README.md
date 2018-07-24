@@ -3,8 +3,7 @@ This is a collection of notebooks that I created for data analysis. All of the p
 
 ## Guided Projects
 These are guided projects that I have completed from Dataquest.io to learn the fundamental workflow and techniques of data analysis.
-### [
-Guided Project: Predicting House Sale Prices Using Linear Regression in Python](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_17%20Predicting%20House%20Sale%20Prices.ipynb)
+### [Guided Project: Predicting House Sale Prices Using Linear Regression in Python](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_17%20Predicting%20House%20Sale%20Prices.ipynb)
 In this project, I use linear regression in Python to predict the sale prices of houses between 2006 and 2010 in Ames, Iowa.  
 ### [Predicting Car Prices Using K-Nearest Neighbors](https://github.com/kevin-kvo/portfolio/blob/master/Dataquest_guided_projects/Guided%20Project_16%20Predicting%20Car%20Prices.ipynb)
 I attempt to estimate car prices using K-Nearest Neighbors regression (instance-based learning) to fit a model to a training dataset and apply it to a test dataset for the prediction. This project utilized k-NN regression, error metrixcs, test/train validation, and k-fold cross validation.
